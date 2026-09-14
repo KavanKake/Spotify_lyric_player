@@ -12,7 +12,7 @@ A small Python desktop app that shows time-synced lyrics for whatever song is cu
 
 ## Screenshot
 
-*(feel free to add a screenshot of the app here once you've uploaded it)*
+![alt text](image.png)
 
 ## Requirements
 
